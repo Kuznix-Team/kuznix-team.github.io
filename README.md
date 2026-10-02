@@ -1,2 +1,2 @@
-# kuznix-team.github.com
+# kuznix-team.github.io
 Website
